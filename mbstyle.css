@@ -1,0 +1,32 @@
+header {
+    color:goldenrod 
+} 
+p{
+    color:black
+
+}
+header {
+    text-align: center
+}
+header
+p{color: white}
+div{
+    inline-size: 300vmax
+}
+h3{
+    color: aquamarine
+
+}
+ol{
+    caret-color: blueviolet
+}
+hr{
+    color: blue
+}
+
+body{
+    background-color: brown
+}
+body{background-blend-mode: luminosity 
+
+}
